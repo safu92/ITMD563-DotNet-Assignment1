@@ -1,0 +1,33 @@
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\ApplicationInsights.config
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Http Module Assignment 1.dll.config
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Http Module Assignment 1.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Http Module Assignment 1.pdb
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Antlr3.Runtime.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\AspNet.ScriptManager.jQuery.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.AI.DependencyCollector.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.AI.Web.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.AI.WindowsServer.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.ApplicationInsights.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.Web.Infrastructure.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Newtonsoft.Json.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\System.Web.Optimization.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\WebGrease.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.AI.DependencyCollector.xml
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.AI.Web.xml
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.AI.WindowsServer.xml
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.ApplicationInsights.xml
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\System.Web.Optimization.xml
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Antlr3.Runtime.pdb
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Newtonsoft.Json.xml
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\obj\Release\Http Module Assignment 1.dll
+D:\dot net projects\Http Module Assignment 1\Http Module Assignment 1\obj\Release\Http Module Assignment 1.pdb
